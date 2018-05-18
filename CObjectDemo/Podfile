@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+platform :osx, '10.13'
+
+target 'CObjectDemo' do
+    use_frameworks!
+
+#pod  'CObject', :path => '../../Common'
+
+
+end

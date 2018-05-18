@@ -1,0 +1,26 @@
+{
+  "name": "CObject",
+  "version": "1.0.0",
+  "summary": "This CPlus.",
+  "description": "CPlus.",
+  "homepage": "https://git.coding.net/vector2017/Common.git",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "vector": "212032326@qq.com"
+  },
+  "source": {
+    "git": "https://git.coding.net/vector2017/Common.git",
+    "branch": "master"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.12"
+  },
+  "source_files": [
+    "CObject/Sources/CObject/**/*.{h,c}",
+    "CObject/Sources/CObject/product/*.h"
+  ],
+  "public_header_files": "CObject/Sources/CObject/include/*.h"
+}
